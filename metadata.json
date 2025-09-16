@@ -1,0 +1,7 @@
+{
+  "name": "Ai Live Translator",
+  "description": "An advanced, real-time conversation translator powered by AI. Speak into your microphone and get instant translations, enabling seamless communication across different languages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
